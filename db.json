@@ -1,0 +1,109 @@
+{
+    "CHARACTERS":
+    [
+        {
+            "Id": "1",
+            "Character-name": "Iron Man",
+            "Real-Name": "Tony Stark",
+            "Character-poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg/revision/latest/scale-to-width-down/350?cb=20190423175213",
+            "Dialogues": [
+                {
+                    "Id":"1",
+                    "Text": "My armor, it was never a distraction or a hobby, it was a cocoon. And now, I'm a changed man. You can take away my house, all my tricks and toys. But one thing you can't take away... I am Iron Man."
+                }
+            ],
+            "Portrayed-by": {
+                "Name": "Robert Downey, Jr.",
+                "Poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/92/Robert_Downey%2C_Jr.jpg/revision/latest/scale-to-width-down/313?cb=20200713193238",
+                "Overview": "Robert John Downey Jr. (born April 4, 1965)[1] is an American actor and producer. His career has been characterized by critical and popular success in his youth, followed by a period of substance abuse and legal troubles, before a resurgence of commercial success later in his career. In 2008, Downey was named by Time magazine among the 100 most influential people in the world,[2][3] and from 2013 to 2015, he was listed by Forbes as Hollywood's highest-paid actor"
+            },
+            "Overview": "Anthony Edward Tony Stark was a billionaire industrialist, a founding member of the Avengers, and the former CEO of Stark Industries. A brash but brilliant inventor, Stark was self-described as a genius, billionaire, playboy, and philanthropist. With his great wealth and exceptional technical knowledge, Stark was one of the world's most powerful men following the deaths of his parents and enjoyed the playboy lifestyle for many years until he was kidnapped by the Ten Rings in Afghanistan, while demonstrating a fleet of Jericho missiles. With his life on the line, Stark created an armored suit which he used to escape his captors. Upon returning home, he utilized several more armors to use against terrorists, as well as Obadiah Stane who turned against Stark. Following his fight against Stane, Stark publicly revealed himself as IRON MAN.",
+            "Species": "Human",
+            "Citizenship": "American",
+            "Gender": "Male",
+            "Date of Birth": "May 29,1970",
+            "Date of Death": "October 2023",
+            "Titles": "CEO of Stark Industries",
+            "Status": "Deceased",
+            "Movies": [
+                {
+                    "Id":"1",
+                    "Title": "Iron Man",
+                    "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1e/Iron_Man_Official_Poster.jpg/revision/latest/scale-to-width-down/337?cb=20120115035645"
+                },
+                {
+                    "Id":"2",
+                    "Title": "Iron Man 2",
+                    "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cb/Iron_Man_2_Official_Poster.jpg/revision/latest/scale-to-width-down/339?cb=20120702233904"
+                },
+                {
+                    "Id":"3",
+                    "Title": "The Avengers",
+                    "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d0/Theavengersnewposter.jpg/revision/latest/scale-to-width-down/337?cb=20140224212619"
+                },
+                {
+                    "Id":"4",
+                    "Title": "Iron Man 3",
+                    "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/55/Iron_Man_3_IMAX_poster.jpg/revision/latest/scale-to-width-down/337?cb=20130319165854"
+                },
+                {
+                    "Id":"5",
+                    "Title": "Avengers: Age of Ultron",
+                    "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c7/Avengers_Age_Of_Ultron-poster1.jpg/revision/latest/scale-to-width-down/337?cb=20150224202250"
+                },
+                {
+                    "Id":"6",
+                    "Title": "Spider-Man: Homecoming",
+                    "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Spider_Man_Homecoming_One_Sheet_1.jpg/revision/latest/scale-to-width-down/337?cb=20170524101741"
+                },
+                {
+                    "Id":"7",
+                    "Title": "Avengers: Infinity War",
+                    "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/11/Avengers_Infinity_war_poster.jpeg/revision/latest/scale-to-width-down/337?cb=20180316141550"
+                },
+                {
+                    "Id":"8",
+                    "Title": "Avengers: Endgame",
+                    "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/91/Endgame_Poster_2.jpg/revision/latest/scale-to-width-down/337?cb=20190314215527"
+                }
+            ],
+            "Other":[
+                {
+                    "Id":"1",
+                    "Title": "Mark I",
+                    "Poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fb/Iron_Man_Armor_-_Mark_I.png/revision/latest?cb=20181116150929"
+                },
+                {
+                    "Id":"2",
+                    "Title": "Mark II",
+                    "Poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0d/Iron_Man_Armor_-_Mark_II.png/revision/latest/scale-to-width-down/240?cb=20170728191151"
+                },
+                {
+                    "Id":"3",
+                    "Title": "Mark III",
+                    "Poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/47/Iron_Man_Armor_-_Mark_III.png/revision/latest/scale-to-width-down/204?cb=20170424185316"
+                },
+                {
+                    "Id":"4",
+                    "Title": "Mark IV",
+                    "Poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6a/Iron_Man_Armor_-_Mark_IV.png/revision/latest/scale-to-width-down/240?cb=20180330035146"
+                },
+                {
+                    "Id":"5",
+                    "Title": "Mark V",
+                    "Poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b3/Iron_Man_Armor_-_Mark_V.png/revision/latest/scale-to-width-down/240?cb=20170424185355"
+                },
+                {
+                    "Id":"6",
+                    "Title": "Mark VI",
+                    "Poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4c/Hot_Toys_IM_MK_6_Transparent.png/revision/latest/scale-to-width-down/198?cb=20170802024240"
+                },
+                {
+                    "Id":"7",
+                    "Title": "Mark VII",
+                    "Poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/71/Iron_Man_Armor_-_Mark_VII.png/revision/latest/scale-to-width-down/201?cb=20181207085104"
+                }
+            ]
+        }
+    ]
+}
