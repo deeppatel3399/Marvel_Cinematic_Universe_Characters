@@ -1,0 +1,104 @@
+        {
+            "Id": "",
+            "Character-name": "",
+            "Real-Name": "",
+            "Character-poster": "",
+            "Dialogues": [
+                {
+                    "Id":"",
+                    "Text": ""
+                }
+            ],
+            "Portrayed-by": {
+                "Name": "",
+                "Poster": "",
+                "Overview": ""
+            },
+            "Overview": "",
+            "Species": "",
+            "Citizenship": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Date of Death": "",
+            "Titles": "",
+            "Status": ",
+            "Movies": [
+                {
+                    "Id":"",
+                    "Title": "",
+                    "poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "poster": ""
+                }
+            ],
+            "Other":[
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                }
+            ]
+        }
