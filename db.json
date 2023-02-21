@@ -104,6 +104,110 @@
                     "Poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/71/Iron_Man_Armor_-_Mark_VII.png/revision/latest/scale-to-width-down/201?cb=20181207085104"
                 }
             ]
+        },
+        {
+            "Id": "2",
+            "Character-name": "Thor",
+            "Real-Name": "Thor Odinson",
+            "Character-poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Thor_in_LoveAndThunder_Poster.jpg/revision/latest/scale-to-width-down/652?cb=20220615195810",
+            "Dialogues": [
+                {
+                    "Id":"1",
+                    "Text": "Bring me Thanos!"
+                }
+            ],
+            "Portrayed-by": {
+                "Name": "Chris Hemsworth",
+                "Poster": "",
+                "Overview": "Christopher Chris Hemsworth was born on August 11, 1983 in Melbourne, Victoria, Australia to Leonie Hemsworth (née van Os), an English teacher & Craig Hemsworth, a social-services counselor. His brothers are actors, Liam Hemsworth & Luke Hemsworth; he is of Dutch (from his immigrant maternal grandfather), Irish, English, Scottish, and German ancestry. His uncle, by marriage, was Rod Ansell, the bushman who inspired the comedy film Crocodile Dundee (1986)."
+            },
+            "Overview": "Thor Odinson is the Asgardian God of Thunder, the former king of both Asgard and New Asgard, a founding member of the Avengers, and a former member of the Guardians of the Galaxy. When his irresponsible and impetuous behavior reignited an ancient war between Asgard and Jotunheim, Thor was denied the right to become king, stripped of his power and hammer Mjølnir, he was banished to Earth by Odin. While exiled on Earth, Thor found love with Jane Foster, and learned humility by saving his new friends from the Destroyer sent by Loki. Due to his selfless act of sacrifice, Thor redeemed himself in his father's eyes and was granted his power once more, which he then used to defeat Loki's schemes of genocide.",
+            "Species": "Asgardian Frog",
+            "Citizenship": " Asgardian",
+            "Gender": "Male",
+            "Date of Birth": "964 A.D./965 A.D.[",
+            "Date of Death": "June 2, 2010",
+            "Titles": "God of Thunder Prince of Asgard King of Asgard King of New Asgard",
+            "Status": "Alive",
+            "Movies": [
+                {
+                    "Id":"1",
+                    "Title": "Thor",
+                    "poster": ""
+                },
+                {
+                    "Id":"2",
+                    "Title": "The Avengers",
+                    "poster": ""
+                },
+                {
+                    "Id":"3",
+                    "Title": "Thor: The Dark World",
+                    "poster": ""
+                },
+                {
+                    "Id":"4",
+                    "Title": "Avengers: Age of Ultron",
+                    "poster": ""
+                },
+                {
+                    "Id":"5",
+                    "Title": "Thor: Ragnarok",
+                    "poster": ""
+                },
+                {
+                    "Id":"6",
+                    "Title": "Avengers: Infinity War",
+                    "poster": ""
+                },
+                {
+                    "Id":"7",
+                    "Title": "Avengers: Endgame",
+                    "poster": ""
+                },
+                {
+                    "Id":"8",
+                    "Title": "Thor: Love and Thunder",
+                    "poster": ""
+                }
+            ],
+            "Other":[
+                {
+                    "Id":"1",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                },
+                {
+                    "Id":"",
+                    "Title": "",
+                    "Poster": ""
+                }
+            ]
         }
     ]
 }

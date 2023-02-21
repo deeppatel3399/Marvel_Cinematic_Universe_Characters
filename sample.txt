@@ -21,7 +21,7 @@
             "Date of Birth": "",
             "Date of Death": "",
             "Titles": "",
-            "Status": ",
+            "Status": "",
             "Movies": [
                 {
                     "Id":"",
