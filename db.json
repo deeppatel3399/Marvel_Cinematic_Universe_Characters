@@ -314,7 +314,7 @@
 "aka": ["Scott Lang"]
 },
     {
-  "id": 2,
+  "id": 13,
   "name": "Wasp",
   "description": "Hope van Dyne, also known as the Wasp, is a Marvel superhero who possesses the ability to shrink in size and fly using a special suit equipped with wings. She is a skilled fighter and often partners with Ant-Man.",
   "powers": [
@@ -352,7 +352,7 @@
   ]
 },
     {
-  "id": 3,
+  "id": 14,
   "name": "Captain Marvel",
   "description": "Carol Danvers, also known as Captain Marvel, is a powerful superhero with enhanced strength, speed, and the ability to fly. She harnesses cosmic energy and is a key member of the Avengers.",
   "powers": [
@@ -393,7 +393,7 @@
   ]
 },
     {
-  "id": 4,
+  "id": 15,
   "name": "Star-Lord",
   "description": "Peter Quill, also known as Star-Lord, is a charismatic and adventurous spacefaring superhero. He is the leader of the Guardians of the Galaxy and wields powerful alien technology.",
   "powers": [
@@ -432,7 +432,7 @@
   ]
 },
     {
-  "id": 5,
+  "id": 16,
   "name": "Gamora",
   "description": "Gamora is a skilled assassin and member of the Guardians of the Galaxy. She is known as the deadliest woman in the galaxy and has a complex history, including being raised by the villain Thanos.",
   "powers": [
@@ -471,7 +471,7 @@
   ]
 },
     {
-  "id": 6,
+  "id": 17,
   "name": "Drax the Destroyer",
   "description": "Drax the Destroyer is a powerful warrior seeking vengeance against Thanos, the Mad Titan. He possesses enhanced strength and durability, making him a formidable member of the Guardians of the Galaxy.",
   "powers": [
@@ -511,7 +511,7 @@
   ]
 },
     {
-  "id": 7,
+  "id": 18,
   "name": "Rocket Raccoon",
   "description": "Rocket Raccoon is a genetically modified raccoon with exceptional intelligence, combat skills, and proficiency in using a wide array of weapons. He is a member of the Guardians of the Galaxy.",
   "powers": [
@@ -551,7 +551,7 @@
 ]
 },
     {
-  "id": 8,
+  "id": 19,
   "name": "Groot",
   "description": "Groot is a humanoid tree-like creature with limited vocabulary. Despite his simple communication skills, he possesses incredible strength and the ability to regenerate his body. He is a loyal member of the Guardians of the Galaxy.",
   "powers": [
@@ -590,7 +590,7 @@
   ]
 },
     {
-  "id": 9,
+  "id": 20,
   "name": "Nebula",
   "description": "Nebula is a fierce and relentless assassin. She is a cyborg with enhanced strength, agility, and combat skills. Nebula has a complicated relationship with her adoptive father, Thanos, and plays a significant role in the conflict against him.",
   "powers": [
@@ -627,7 +627,7 @@
   ]
 },
     {
-  "id": 10,
+  "id": 21,
   "name": "Thanos",
   "description": "Thanos is a powerful",
       "powers": [
@@ -663,7 +663,7 @@
   ]
 },
     {
-  "id": 11,
+  "id": 22,
   "name": "Loki",
   "description": "Loki is the god of mischief and the adopted brother of Thor. He possesses magical abilities and is known for his cunning and manipulative nature. Although initially an adversary, Loki has been both an ally and enemy of the Avengers.",
   "powers": [
@@ -701,7 +701,7 @@
   ]
 },
     {
-  "id": 12,
+  "id": 23,
   "name": "Winter Soldier",
   "description": "Bucky Barnes, also known as the Winter Soldier, is a skilled assassin and a former brainwashed operative of HYDRA. With a bionic arm and enhanced combat abilities, he fights alongside Captain America and the Avengers.",
   "powers": [
@@ -738,7 +738,7 @@
   ]
 },
     {
-  "id": 13,
+  "id": 24,
   "name": "Falcon",
   "description": "Sam Wilson, also known as Falcon, is a skilled aerialist",
   "powers": [
@@ -775,7 +775,7 @@
   ]
 },
     {
-  "id": 14,
+  "id": 25,
   "name": "War Machine",
   "description": "James Rhodes, also known as War Machine, is a highly skilled pilot and combatant. He operates a heavily armored suit equipped with advanced weaponry and often fights alongside Iron Man and the Avengers.",
   "powers": [
@@ -806,14 +806,14 @@
     "Thanos"
   ],
   "affiliation": "Avengers",
-  "firstAppearance": "Iron Man #118 (1979)",
+  "firstAppearance": "Iron Man #f18 (1979)",
   "creator": "David Michelinie, John Byrne",
   "aka": [
     "James Rhodes"
   ]
 },
     {
-  "id": 15,
+  "id": 26,
   "name": "Nick Fury",
   "description": "Nick Fury is a seasoned intelligence operative and the former director of S.H.I.E.L.D. He is known for his strategic mind and resourcefulness, often assembling and leading teams of superheroes to defend the world.",
   "powers": [
@@ -851,7 +851,7 @@
   ]
 },
 {
-  "id": 17,
+  "id": 27,
   "name": "Phil Coulson",
   "description": "Phil Coulson is a dedicated S.H.I.E.L.D. agent known for his loyalty and unwavering commitment to protecting the world from threats. He often serves as a liaison between S.H.I.E.L.D. and the Avengers, providing valuable intelligence and support.",
   "powers": [
@@ -889,7 +889,7 @@
   ]
 },
     {
-  "id": 18,
+  "id": 28,
   "name": "Agent Peggy Carter",
   "description": "Agent Peggy Carter is a skilled intelligence agent who played a crucial role during World War II. She is known for her bravery, resourcefulness, and commitment to justice. Peggy Carter co-founded S.H.I.E.L.D. and became a respected leader within the organization.",
   "powers": [
@@ -927,7 +927,7 @@
   ]
 },
     {
-  "id": 19,
+  "id": 29,
   "name": "Valkyrie",
   "description": "Valkyrie, also known as Brunnhilde, is a fierce Asgardian warrior and member of the Valkyrior. She is a skilled combatant and has formidable leadership qualities. Valkyrie played a vital role in the fight against Hela and has since become an ally of Thor and the Avengers.",
   "powers": [
@@ -965,7 +965,7 @@
   ]
 },
     {
-  "id": 20,
+  "id": 30,
   "name": "Okoye",
   "description": "Okoye is the leader of the Dora Milaje, the elite all-female bodyguards of the king of Wakanda. She is a highly skilled warrior and fiercely loyal to her country and its traditions. Okoye played a pivotal role in defending Wakanda during the Battle of Wakanda and continues to serve as a protector of the nation.",
   "powers": [
